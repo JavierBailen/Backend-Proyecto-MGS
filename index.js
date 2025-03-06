@@ -13,7 +13,9 @@ app.get("/", (req, res)=>{
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-app.use(cors({origin: "front-end-proyecto-mgs.vercel.app"}))
+app.use(cors({
+    origin: 'https://front-end-proyecto-mgs.vercel.app'
+  }));
 app.use(bodyParser.json());
 app.use("/api/personajes", metalGearRoutes );
 app.use("/api/usuarios", userRoutes);

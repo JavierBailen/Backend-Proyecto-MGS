@@ -1,0 +1,107 @@
+{
+  "personajes": [
+    {
+      "id": "1",
+      "nombre": "Solid Snake",
+      "descripcion": "Al estilo",
+      "imagen": "https://i.pinimg.com/736x/31/b9/5e/31b95e9dfe3b05a5db4d6324a0023e4b.jpg",
+      "createdAt": "",
+      "updatedAt": "3/5/2025, 9:23:45 AM"
+    },
+    {
+      "id": "2b3c4d5e-2345-6789-01bc-def234567890",
+      "nombre": "Big Boss",
+      "descripcion": "Un ciudadano ejemplar",
+      "imagen": "https://i.pinimg.com/736x/15/c1/bb/15c1bb60c26f5b4b0a45f2026f931c97.jpg",
+      "createdAt": "",
+      "updatedAt": "2/13/2025, 5:59:27 PM"
+    },
+    {
+      "id": "3c4d5e6f-3456-7890-12cd-ef3456789012",
+      "nombre": "Ocelot",
+      "descripcion": "Un maestro en el combate con revólveres y el arte de la manipulación. Ha trabajado como doble y triple agente en varios conflictos.",
+      "imagen": "https://upload.wikimedia.org/wikipedia/en/5/5c/Revolver_Ocelot.png",
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "id": "4d5e6f7g-4567-8901-23de-f45678901234",
+      "nombre": "Raiden",
+      "descripcion": "Un ex-soldado de la unidad FOXHOUND y cyborg ninja. Luchó contra la organización de los Patriots para recuperar su humanidad.",
+      "imagen": "https://i.pinimg.com/736x/e1/40/20/e1402062e52641d2153d0c7df91df5ee.jpg",
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "id": "5e6f7g8h-5678-9012-34ef-567890123456",
+      "nombre": "The Boss",
+      "descripcion": "Mentora de Big Boss y una de las mejores soldados de la historia. Su sacrificio en MGS3 la convirtió en una leyenda.",
+      "imagen": "https://i.pinimg.com/736x/c0/e7/9d/c0e79da0cad4b4b887ec29f8ec53435f.jpg",
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "id": "6f7g8h9i-6789-0123-45f0-678901234567",
+      "nombre": "Gray Fox",
+      "descripcion": "Un ex-soldado de FOXHOUND convertido en cyborg ninja. Fue amigo y enemigo de Solid Snake en diferentes momentos.",
+      "imagen": "https://i.pinimg.com/736x/ec/0a/30/ec0a304c3aa13f28a598c5ee19d1ac40.jpg",
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "id": "7g8h9i0j-7890-1234-56a1-789012345678",
+      "nombre": "Psycho Mantis",
+      "descripcion": "Un poderoso psíquico con habilidades telequinéticas y de control mental. Uno de los enemigos más memorables de la saga.",
+      "imagen": "https://i.pinimg.com/736x/a3/f7/56/a3f7563a5f0cdadc85c35e1f2c10b065.jpg",
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "id": "9l0m1n2o-9012-3456-78c3-901234567890",
+      "nombre": "Volgin",
+      "descripcion": "Un coronel sádico del GRU con la capacidad de manipular electricidad. Líder de la Operación Virtuosa y antagonista en Tselinoyarsk.",
+      "imagen": "https://i.pinimg.com/736x/41/e3/55/41e355086e4f8b35cef4c080e6d13d5c.jpg",
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "id": "9i0j1k2l-9012-3456-78c3-901234567890",
+      "nombre": "Quiet",
+      "descripcion": "Una francotiradora letal con habilidades sobrehumanas debido a un parásito especial. Aliada de Venom Snake en MGS V.",
+      "imagen": "https://i.pinimg.com/736x/62/9a/94/629a941b64e1a982ba47b714074cc263.jpg",
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "id": "0j1k2l3m-0123-4567-89d4-012345678901",
+      "nombre": "Skull Face",
+      "descripcion": "El líder de XOF y uno de los principales antagonistas de Metal Gear Solid V. Busca liberar al mundo del control lingüístico.",
+      "imagen": "https://i.pinimg.com/736x/9e/53/5b/9e535b2fab920c1672d766c75c8cb8fe.jpg",
+      "createdAt": "",
+      "updatedAt": ""
+    },
+    {
+      "nombre": "Antonio Toranzo",
+      "descripcion": "Mitico profesor de instituto",
+      "imagen": "https://i.pinimg.com/280x280_RS/57/43/59/574359004f4bcb5e938d7bdd6e31e11d.jpg",
+      "id": "51d72f4d-d81f-4e5a-8cc8-c40fecc6d17d",
+      "createdAt": "3/2/2025, 10:53:30 AM",
+      "updatedAt": "3/2/2025, 10:53:30 AM"
+    },
+    {
+      "nombre": "DD",
+      "descripcion": "Animal de compañía y aventuras de Snake",
+      "imagen": "https://i.pinimg.com/736x/3b/13/28/3b132885a01995120bddfdc96822f2f9.jpg",
+      "id": "1fc6548d-0838-4aba-81da-b3b15a5082f2",
+      "createdAt": "3/2/2025, 11:54:19 AM",
+      "updatedAt": "3/2/2025, 11:54:19 AM"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "username": "JavierBailen",
+      "password": "extremoduro5"
+    }
+  ]
+}

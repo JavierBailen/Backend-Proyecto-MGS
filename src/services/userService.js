@@ -47,7 +47,7 @@ const loginUser = (username, password) =>{
     }
 
 
-    return {id: usuario.id, username: usuario.username}
+    return {id: usuario.id, username: usuario.username, password: usuario.password}
 }
 
 
